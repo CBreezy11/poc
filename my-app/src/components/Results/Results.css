@@ -1,0 +1,8 @@
+.word-result {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 7.66rem;
+    margin: 0 .5rem 2.3rem .5rem;
+    color: #ffffff;
+}
